@@ -6,6 +6,7 @@ tools:
       - /md5sum/test-parameter-file-where-you-upload-own-md5sum-file.json
       - /md5sum/test-parameter-file-with-https-file.json
       - /md5sum/test-parameter-file-with-s3.json
+    readmePath: /md5sum/README.md
     name: md5sum_test
     authors:
       - name: Flynn Hembroff
